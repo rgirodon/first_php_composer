@@ -1,0 +1,14 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Dta\\Firstcomposer\\" : "src"
+		}
+	},
+	"name" : "dta/firstcomposer",
+	"require" : {
+		"php" : ">=7.0",
+		"monolog/monolog" : "~1.23",
+		"nesbot/carbon" : "~1.22",
+		"respect/validation" : "~1.1"
+	}
+}
